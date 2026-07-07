@@ -1,0 +1,10 @@
+{
+  "name": "webserver-title",
+  "version": "1.0.0",
+  "description": "Basic Web Server for Assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
